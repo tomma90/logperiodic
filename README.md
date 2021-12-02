@@ -1,1 +1,1 @@
-# logperiodic
+# Geberate logperiodic sinuous antenna pattern
